@@ -1,7 +1,7 @@
 Package: com.Alibusut.YouPro
 Name: YouPro
 Version: 0.3
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64
 Maintainer: Alibusut <Alibusut@email.com>
 Depends: mobilesubstrate | substitute | ellekit
 Description: youpro
