@@ -3,5 +3,5 @@ Name: YouPro
 Version: 0.3
 Architecture: iphoneos-arm64
 Maintainer: Alibusut <Alibusut@email.com>
-Depends: mobilesubstrate | substitute | ellekit
+Depends: mobilesubstrate | substitute | ellekit, com.ps.YouTubeHeader, preferenceloader
 Description: youpro
